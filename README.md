@@ -1,4 +1,4 @@
-# Simple Slack App
+# Angular 5 Chat App
 
 A web application that allows users to send message via team channels like slack. This app is built by ReactJS.
 
